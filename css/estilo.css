@@ -1,0 +1,44 @@
+body{
+    
+    font-family: Calibri, Verdana;
+    padding: 10px 20px;
+    width: 90%;
+    margin: auto;
+    background-color: #42b0f5;
+}
+
+h1 {
+	color: #FFFFFF;
+	background-color: #ffbd33;
+	padding: 10px;
+	border-radius:0 20px;
+    text-align: center;
+}
+
+
+img {
+    height: 100px;
+    width: 100px;
+}
+#tablerodejuego {
+    height: 400px;
+    width: 400px;
+    display: block;
+    margin: auto;
+}
+#informacion {
+    background: #ffbd33;
+    padding: 10px;
+    border-radius:0 20px;
+    text-align: center;
+    color: white;
+    font-family: Calibri;
+    font-weight: bold;
+    margin-top: 50px;
+    width: 200px;
+    font-size: 30px;
+    
+}
+#reiniciar {
+    text-align: center;
+}

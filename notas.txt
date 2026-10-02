@@ -1,0 +1,19 @@
+- onclic="existeMoneda(this)" == onclick="mar(this)"
+El this referencia a todo el elemento html al que afectará el click
+
+- vGblFrenteNaipe == vOla
+- vGblFondoNaipe == vMarCalmo
+- vGblMoneda == vBarco
+- existeMoneda(pElemento) = mar(pElemento)
+
+- function esconderMoneda == ocultarBarco
+
+- var vGblPosicionMoneda; == vHubicacionBarco;
+ 
+min 52:32
+*Idea: ocultar barco coloca la vHubicaciónBarco en UNA localización aleatoria al cargar el body.
+Mi recomendación es que, para ocultar 3 barcos, dentro de la misma función que oculta el barco, debo añadir dos variables vHubicacion barco mas, aparte de la que ya tengo. Hay que probarlo. 
+Otra puede ser agregar otro elemento barco
+
+jugarDeNuevo == reiniciar  
+min 78 form
